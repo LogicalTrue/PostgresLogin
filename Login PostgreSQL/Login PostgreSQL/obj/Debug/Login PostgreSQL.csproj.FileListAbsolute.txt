@@ -37,3 +37,42 @@ C:\Users\Utopic\source\repos\Login PostgreSQL\Login PostgreSQL\obj\Debug\Login_P
 C:\Users\Utopic\source\repos\Login PostgreSQL\Login PostgreSQL\obj\Debug\Login_PostgreSQL.Login.resources
 C:\Users\Utopic\source\repos\Login PostgreSQL\Login PostgreSQL\obj\Debug\Login_PostgreSQL.Configuracion.resources
 C:\Users\Utopic\source\repos\Login PostgreSQL\Login PostgreSQL\obj\Debug\Login_PostgreSQL.Productos.resources
+C:\Users\Utopic\Source\Repos\LogicalTrue\PostgresLogin\Login PostgreSQL\Login PostgreSQL\bin\Debug\Login PostgreSQL.exe.config
+C:\Users\Utopic\Source\Repos\LogicalTrue\PostgresLogin\Login PostgreSQL\Login PostgreSQL\bin\Debug\Login PostgreSQL.exe
+C:\Users\Utopic\Source\Repos\LogicalTrue\PostgresLogin\Login PostgreSQL\Login PostgreSQL\bin\Debug\Login PostgreSQL.pdb
+C:\Users\Utopic\Source\Repos\LogicalTrue\PostgresLogin\Login PostgreSQL\Login PostgreSQL\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Utopic\Source\Repos\LogicalTrue\PostgresLogin\Login PostgreSQL\Login PostgreSQL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Utopic\Source\Repos\LogicalTrue\PostgresLogin\Login PostgreSQL\Login PostgreSQL\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Utopic\Source\Repos\LogicalTrue\PostgresLogin\Login PostgreSQL\Login PostgreSQL\bin\Debug\Npgsql.dll
+C:\Users\Utopic\Source\Repos\LogicalTrue\PostgresLogin\Login PostgreSQL\Login PostgreSQL\bin\Debug\System.Buffers.dll
+C:\Users\Utopic\Source\Repos\LogicalTrue\PostgresLogin\Login PostgreSQL\Login PostgreSQL\bin\Debug\System.Memory.dll
+C:\Users\Utopic\Source\Repos\LogicalTrue\PostgresLogin\Login PostgreSQL\Login PostgreSQL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Utopic\Source\Repos\LogicalTrue\PostgresLogin\Login PostgreSQL\Login PostgreSQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Utopic\Source\Repos\LogicalTrue\PostgresLogin\Login PostgreSQL\Login PostgreSQL\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Utopic\Source\Repos\LogicalTrue\PostgresLogin\Login PostgreSQL\Login PostgreSQL\bin\Debug\System.Text.Json.dll
+C:\Users\Utopic\Source\Repos\LogicalTrue\PostgresLogin\Login PostgreSQL\Login PostgreSQL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Utopic\Source\Repos\LogicalTrue\PostgresLogin\Login PostgreSQL\Login PostgreSQL\bin\Debug\System.ValueTuple.dll
+C:\Users\Utopic\Source\Repos\LogicalTrue\PostgresLogin\Login PostgreSQL\Login PostgreSQL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Utopic\Source\Repos\LogicalTrue\PostgresLogin\Login PostgreSQL\Login PostgreSQL\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Utopic\Source\Repos\LogicalTrue\PostgresLogin\Login PostgreSQL\Login PostgreSQL\bin\Debug\Npgsql.pdb
+C:\Users\Utopic\Source\Repos\LogicalTrue\PostgresLogin\Login PostgreSQL\Login PostgreSQL\bin\Debug\Npgsql.xml
+C:\Users\Utopic\Source\Repos\LogicalTrue\PostgresLogin\Login PostgreSQL\Login PostgreSQL\bin\Debug\System.Buffers.xml
+C:\Users\Utopic\Source\Repos\LogicalTrue\PostgresLogin\Login PostgreSQL\Login PostgreSQL\bin\Debug\System.Memory.xml
+C:\Users\Utopic\Source\Repos\LogicalTrue\PostgresLogin\Login PostgreSQL\Login PostgreSQL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Utopic\Source\Repos\LogicalTrue\PostgresLogin\Login PostgreSQL\Login PostgreSQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Utopic\Source\Repos\LogicalTrue\PostgresLogin\Login PostgreSQL\Login PostgreSQL\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Utopic\Source\Repos\LogicalTrue\PostgresLogin\Login PostgreSQL\Login PostgreSQL\bin\Debug\System.Text.Json.xml
+C:\Users\Utopic\Source\Repos\LogicalTrue\PostgresLogin\Login PostgreSQL\Login PostgreSQL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Utopic\Source\Repos\LogicalTrue\PostgresLogin\Login PostgreSQL\Login PostgreSQL\bin\Debug\System.ValueTuple.xml
+C:\Users\Utopic\Source\Repos\LogicalTrue\PostgresLogin\Login PostgreSQL\Login PostgreSQL\obj\Debug\Login PostgreSQL.csprojAssemblyReference.cache
+C:\Users\Utopic\Source\Repos\LogicalTrue\PostgresLogin\Login PostgreSQL\Login PostgreSQL\obj\Debug\Login_PostgreSQL.Configuracion.resources
+C:\Users\Utopic\Source\Repos\LogicalTrue\PostgresLogin\Login PostgreSQL\Login PostgreSQL\obj\Debug\Login_PostgreSQL.Productos.resources
+C:\Users\Utopic\Source\Repos\LogicalTrue\PostgresLogin\Login PostgreSQL\Login PostgreSQL\obj\Debug\Login_PostgreSQL.Estadisticas.resources
+C:\Users\Utopic\Source\Repos\LogicalTrue\PostgresLogin\Login PostgreSQL\Login PostgreSQL\obj\Debug\Login_PostgreSQL.Login.resources
+C:\Users\Utopic\Source\Repos\LogicalTrue\PostgresLogin\Login PostgreSQL\Login PostgreSQL\obj\Debug\Login_PostgreSQL.PanelDeControl.resources
+C:\Users\Utopic\Source\Repos\LogicalTrue\PostgresLogin\Login PostgreSQL\Login PostgreSQL\obj\Debug\Login_PostgreSQL.Properties.Resources.resources
+C:\Users\Utopic\Source\Repos\LogicalTrue\PostgresLogin\Login PostgreSQL\Login PostgreSQL\obj\Debug\Login PostgreSQL.csproj.GenerateResource.cache
+C:\Users\Utopic\Source\Repos\LogicalTrue\PostgresLogin\Login PostgreSQL\Login PostgreSQL\obj\Debug\Login PostgreSQL.csproj.CoreCompileInputs.cache
+C:\Users\Utopic\Source\Repos\LogicalTrue\PostgresLogin\Login PostgreSQL\Login PostgreSQL\obj\Debug\Login PostgreSQL.csproj.CopyComplete
+C:\Users\Utopic\Source\Repos\LogicalTrue\PostgresLogin\Login PostgreSQL\Login PostgreSQL\obj\Debug\Login PostgreSQL.exe
+C:\Users\Utopic\Source\Repos\LogicalTrue\PostgresLogin\Login PostgreSQL\Login PostgreSQL\obj\Debug\Login PostgreSQL.pdb
